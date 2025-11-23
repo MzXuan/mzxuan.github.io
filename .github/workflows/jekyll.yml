@@ -18,14 +18,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # 允许 checkout 完整历史，这对某些 Jekyll 插件是必需的
           fetch-depth: 0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          # 使用 al-folio 兼容的 Ruby 版本
-          ruby-version: '3.1' 
+          ruby-version: '3.2' 
           # 自动安装 Gemfile 中列出的依赖
           bundler-cache: true 
 
