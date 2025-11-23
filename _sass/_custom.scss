@@ -1,0 +1,29 @@
+/* _sass/_custom.scss */
+
+#secret-robot {
+    /* 1. Positioning */
+    position: fixed; /* Keep it locked on the screen */
+    bottom: 30px;    /* Distance from the bottom */
+    left: 30px;     /* Distance from the right */
+    
+    /* 2. Appearance & Z-Index */
+    font-size: 2.5rem; /* Large size */
+    color: var(--global-theme-color); 
+    z-index: 1000;   /* Ensure it floats above other content */
+    
+    /* 3. Interaction */
+    cursor: pointer; 
+    transition: transform 0.2s ease-in-out; 
+    
+    /* Ensure it works on smaller screens if needed */
+    @media (max-width: 576px) {
+        bottom: 15px;
+        right: 15px;
+        font-size: 2rem;
+    }
+}
+
+#secret-robot:hover {
+    transform: scale(1.1) rotate(5deg); /* Added a slight rotation for fun */
+    color: var(--global-text-color); 
+}
