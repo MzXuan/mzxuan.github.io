@@ -18,3 +18,5 @@ nav_order: 1
 {% bibliography %}
 
 </div>
+
+<script src="{{ '/assets/js/publications-separator.js' | relative_url }}"></script>
