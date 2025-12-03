@@ -31,9 +31,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a senior researcher at Noah’s Ark Lab focusing on robot learning and motion planning. My goal is to build autonomy systems that react smoothly, behave predictably and work in real environments. 
+I am a senior researcher at Noah's Ark Lab focusing on robot learning and motion planning. My goal is to build autonomy systems that react smoothly, behave predictably and work in real environments.
 
-I earned my PhD in robotics at City University of Hong Kong, where I worked on human robot interaction and motion planning. Before that, I studied robotics at the University of Bristol and completed my engineering degree at Xi’an Jiaotong University.
+I earned my PhD in robotics at City University of Hong Kong, where I was advised by [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan) and worked on human robot interaction and motion planning. Before that, I studied robotics at the [University of Bristol](https://www.bristol.ac.uk/) and completed my engineering degree at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/).
 
 **Research interest:** imitation learning, reinforcement learning, motion planning
 

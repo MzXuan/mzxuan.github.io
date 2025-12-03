@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Create personal website :sparkles: :smile:
+Launched my personal website to share updates on research and projects.
